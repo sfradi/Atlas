@@ -1,0 +1,14 @@
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.csproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.RazorAssemblyInfo.cache
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.RazorAssemblyInfo.cs
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.AssemblyInfoInputs.cache
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.AssemblyInfo.cs
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.dll.config
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.deps.json
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.runtimeconfig.json
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.runtimeconfig.dev.json
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.dll
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\bin\Debug\netcoreapp2.2\AtlasQuantumAPI.pdb
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.RazorTargetAssemblyInfo.cache
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.dll
+C:\Users\stan\source\repos\AtlasQuantumAPI\AtlasQuantumAPI\obj\Debug\netcoreapp2.2\AtlasQuantumAPI.pdb
